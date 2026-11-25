@@ -1,0 +1,11 @@
+note_id,appointment_id,root_cause,confidence,summary,recommended_action,validation_status,raw_response
+N_000,A0001,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N_001,A0002,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N_002,A0003,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N_003,A0003,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N_004,A0004,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N_005,A0005,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N_006,A0006,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N_007,A0007,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N_008,A0008,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N_009,A0009,other,0.0,No note recorded,Re-call patient,skipped_blank,
