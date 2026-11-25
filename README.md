@@ -92,3 +92,5 @@ After completing all four steps, the project provides:
 - Make sure all required CSV files are uploaded before running the notebooks.
 - Run SQL scripts only when the required database and tables are ready.
 - Keep your Gemini API key private.
+
+Github Link : https://github.com/sujal-chauhan2006/capstone-project
